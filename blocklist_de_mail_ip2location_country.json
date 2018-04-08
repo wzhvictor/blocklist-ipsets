@@ -1,0 +1,46 @@
+[
+	{
+		"code": "CH",
+		"value": 1
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 512
+	},
+	{
+		"code": "CZ",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 280
+	},
+	{
+		"code": "FR",
+		"value": 256
+	},
+	{
+		"code": "IS",
+		"value": 16
+	},
+	{
+		"code": "RO",
+		"value": 2
+	},
+	{
+		"code": "RU",
+		"value": 2562
+	},
+	{
+		"code": "SE",
+		"value": 1
+	},
+	{
+		"code": "UA",
+		"value": 258
+	},
+	{
+		"code": "US",
+		"value": 4355
+	}
+]

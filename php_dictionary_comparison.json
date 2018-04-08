@@ -1,0 +1,128 @@
+[
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 31853,
+		"common": 48
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 300360,
+		"common": 46
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668782,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382179,
+		"common": 13
+	},
+	{
+		"name": "iblocklist_spider",
+		"category": "reputation",
+		"ips": 846624,
+		"common": 12
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 353041,
+		"common": 6
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 14161,
+		"common": 14
+	},
+	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 4
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 84,
+		"common": 5
+	},
+	{
+		"name": "php_commenters_30d",
+		"category": "spam",
+		"ips": 945,
+		"common": 17
+	},
+	{
+		"name": "php_commenters_7d",
+		"category": "spam",
+		"ips": 253,
+		"common": 15
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 88,
+		"common": 50
+	},
+	{
+		"name": "php_dictionary_30d",
+		"category": "spam",
+		"ips": 1070,
+		"common": 50
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 298,
+		"common": 50
+	},
+	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 5
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 95,
+		"common": 10
+	},
+	{
+		"name": "php_spammers_30d",
+		"category": "spam",
+		"ips": 1190,
+		"common": 18
+	},
+	{
+		"name": "php_spammers_7d",
+		"category": "spam",
+		"ips": 336,
+		"common": 15
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 35223,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 1
+	}
+]

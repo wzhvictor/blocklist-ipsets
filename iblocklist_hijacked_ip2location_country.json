@@ -1,0 +1,190 @@
+[
+	{
+		"code": "AR",
+		"value": 4352
+	},
+	{
+		"code": "AT",
+		"value": 256
+	},
+	{
+		"code": "AU",
+		"value": 199424
+	},
+	{
+		"code": "BD",
+		"value": 1024
+	},
+	{
+		"code": "BE",
+		"value": 256
+	},
+	{
+		"code": "BG",
+		"value": 66560
+	},
+	{
+		"code": "BR",
+		"value": 8192
+	},
+	{
+		"code": "CA",
+		"value": 222976
+	},
+	{
+		"code": "CH",
+		"value": 512
+	},
+	{
+		"code": "CL",
+		"value": 131072
+	},
+	{
+		"code": "CN",
+		"value": 1147392
+	},
+	{
+		"code": "CO",
+		"value": 8192
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 646400
+	},
+	{
+		"code": "DE",
+		"value": 225024
+	},
+	{
+		"code": "EG",
+		"value": 256
+	},
+	{
+		"code": "ES",
+		"value": 40960
+	},
+	{
+		"code": "FI",
+		"value": 131072
+	},
+	{
+		"code": "GB",
+		"value": 21248
+	},
+	{
+		"code": "HK",
+		"value": 27392
+	},
+	{
+		"code": "HU",
+		"value": 256
+	},
+	{
+		"code": "IN",
+		"value": 142848
+	},
+	{
+		"code": "IQ",
+		"value": 256
+	},
+	{
+		"code": "IR",
+		"value": 263680
+	},
+	{
+		"code": "JM",
+		"value": 2048
+	},
+	{
+		"code": "JP",
+		"value": 83200
+	},
+	{
+		"code": "KH",
+		"value": 768
+	},
+	{
+		"code": "KR",
+		"value": 917504
+	},
+	{
+		"code": "KZ",
+		"value": 5120
+	},
+	{
+		"code": "LT",
+		"value": 6144
+	},
+	{
+		"code": "LV",
+		"value": 1024
+	},
+	{
+		"code": "MX",
+		"value": 65536
+	},
+	{
+		"code": "NL",
+		"value": 72960
+	},
+	{
+		"code": "NZ",
+		"value": 16384
+	},
+	{
+		"code": "PA",
+		"value": 3072
+	},
+	{
+		"code": "PK",
+		"value": 1024
+	},
+	{
+		"code": "PS",
+		"value": 4096
+	},
+	{
+		"code": "PT",
+		"value": 4352
+	},
+	{
+		"code": "RO",
+		"value": 1024
+	},
+	{
+		"code": "RU",
+		"value": 81664
+	},
+	{
+		"code": "SA",
+		"value": 131072
+	},
+	{
+		"code": "SE",
+		"value": 2048
+	},
+	{
+		"code": "TH",
+		"value": 131328
+	},
+	{
+		"code": "TR",
+		"value": 256
+	},
+	{
+		"code": "UA",
+		"value": 84224
+	},
+	{
+		"code": "US",
+		"value": 3872256
+	},
+	{
+		"code": "VN",
+		"value": 256
+	},
+	{
+		"code": "ZA",
+		"value": 131584
+	}
+]

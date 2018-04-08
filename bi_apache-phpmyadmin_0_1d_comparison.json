@@ -1,0 +1,14 @@
+[
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 11,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 36,
+		"common": 1
+	}
+]

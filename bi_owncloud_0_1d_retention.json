@@ -1,0 +1,30 @@
+{
+	"ipset": "bi_owncloud_0_1d",
+	"started": 1512342205000,
+	"updated": 1521737317000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			7,
+			23,
+			24,
+			25,
+			33,
+			38,
+			42 ],
+		"ips": [ 
+			1,
+			7,
+			147,
+			2,
+			2,
+			1,
+			1 ],
+		"total": 161
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

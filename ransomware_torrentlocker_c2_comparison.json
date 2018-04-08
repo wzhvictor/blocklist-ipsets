@@ -1,0 +1,110 @@
+[
+	{
+		"name": "bambenek_banjori",
+		"category": "malware",
+		"ips": 117,
+		"common": 2
+	},
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 425,
+		"common": 2
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 73845,
+		"common": 3
+	},
+	{
+		"name": "coinbl_hosts",
+		"category": "organizations",
+		"ips": 2661,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 646288457,
+		"common": 4
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 5263,
+		"common": 2
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 15115,
+		"common": 2
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 32814,
+		"common": 3
+	},
+	{
+		"name": "hphosts_exp",
+		"category": "malware",
+		"ips": 335,
+		"common": 2
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 28347,
+		"common": 3
+	},
+	{
+		"name": "hphosts_grm",
+		"category": "spam",
+		"ips": 349,
+		"common": 2
+	},
+	{
+		"name": "hphosts_mmt",
+		"category": "reputation",
+		"ips": 1081,
+		"common": 2
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 2128,
+		"common": 3
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 41018,
+		"common": 3
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 1041,
+		"common": 2
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5089,
+		"common": 3
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 80,
+		"common": 2
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 299,
+		"common": 4
+	}
+]
